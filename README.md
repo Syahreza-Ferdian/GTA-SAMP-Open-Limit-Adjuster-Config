@@ -46,7 +46,7 @@ Konfigurasi ini diuji di sistem berikut:
 - **RAM**: 16 GB  
 - **GPU**: NVIDIA GTX 1650 Laptop  
 - **CPU**: Intel Core i5-12500H  
-- **Game**: GTA San Andreas 1.0 US + SAMP 0.3.7 R5  
+- **Game**: GTA San Andreas 1.0 US + SAMP 0.3DL 
 - **Mod Tambahan**: Colormod, Improved Vehicle Feature Mod (ImVehFT) (base and vehicles), HUD, Vehicle Wheels, Timecyc, etc
 
 ---
