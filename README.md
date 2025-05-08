@@ -43,11 +43,19 @@ Berikut beberapa parameter utama yang telah dioptimalkan:
 ## Rekomendasi Sistem
 
 Konfigurasi ini diuji di sistem berikut:
-- **RAM**: 16 GB  
-- **GPU**: NVIDIA GTX 1650 Laptop  
-- **CPU**: Intel Core i5-12500H  
-- **Game**: GTA San Andreas 1.0 US + SAMP 0.3DL 
+- **RAM**: 16 GB
+- **OS**: Windows 11 Home
+- **GPU**: NVIDIA GTX 1650 Laptop (4GB GDDR6)
+- **CPU**: Intel Core i5-12500H (12 Cores, 16 Threads up to 4.5 GHz)
+- **Game**: GTA San Andreas 1.0 US + SAMP 0.3DL
 - **Mod Tambahan**: Colormod, Improved Vehicle Feature Mod (ImVehFT) (base and vehicles), HUD, Vehicle Wheels, Timecyc, etc
+
+Juga telah diuji di perangkat kedua saya dengan mod yang sama persis dengan di perangkat pertama di atas (**dengan penyesuaian pada beberapa parameter**):
+- **RAM**: 6 GB
+- **OS**: Windows 10 Pro  
+- **GPU**: NVIDIA 820M Laptop (2GB DDR3)
+- **CPU**: Intel Core i3-4030U (2 Cores, 4 Threads up to 1.9 GHz)
+- **Game**: GTA San Andreas 1.0 US + SAMP 0.3DL
 
 ---
 
